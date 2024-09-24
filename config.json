@@ -1,0 +1,10 @@
+{
+    "ENABLE_PROXY": 0,
+    "TIME_BETWEEN_ACCOUNTS": 1,
+    "SMALL_DELAY": 1,
+    "GAME_TIME": 42,
+    "DELAY_BEFORE_RESTART": 1,
+    "DELAY_AFTER_GAME": 1,
+    "MAX_RETRY": 1,
+    "TIMEOUT": 1
+}
